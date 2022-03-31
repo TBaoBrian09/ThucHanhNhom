@@ -1,2 +1,0 @@
-#Lam viec nhom
-ne
